@@ -3,3 +3,8 @@ this line written by developer-2
 
 hello
 welcome
+
+frontend
+backend
+database
+DSA
